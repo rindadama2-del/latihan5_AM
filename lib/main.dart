@@ -10,7 +10,7 @@ class MyMaterialApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Title Aplikasi', //muncul di tab
+      title: 'Aplikasi Mahasiswa', //muncul di tab
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         useMaterial3: true,
