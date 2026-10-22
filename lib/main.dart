@@ -31,7 +31,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.blueAccent,
         leading: Icon(Icons.man_2_rounded),
-        title: Text("Latihan Scaffold 1"),
+        title: Text("Dashboard Mahasiswa"),
         actions: [
           Icon(Icons.abc_outlined),
         Icon(Icons.access_time_rounded),
