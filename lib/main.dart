@@ -41,19 +41,7 @@ class MyHomePage extends StatelessWidget {
         }, icon: Icon(Icons.notification_add))
         ],
         ),
-      body: Center(child: Text("Hello world")),
+      body: Center(child: Text("Hello Rinda")),
     );
   }
 }
-
-// class MyPage2 extends StatelessWidget {
-//   const MyPage2({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return (
-//       appBar: AppBar(title: Text("Latihan Scaffold 2")),
-//       body: Center(child: Text("Hello world")),
-//     );
-//   }
-// }
