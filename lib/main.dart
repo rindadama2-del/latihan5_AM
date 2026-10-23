@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.blueAccent,
+        backgroundColor: Colors.teal,
         leading: Icon(Icons.man_2_rounded),
         title: Text("Dashboard Mahasiswa"),
         actions: [
